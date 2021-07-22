@@ -1,0 +1,21 @@
+.Login{
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.LoginGIt{
+  background-color: rgb(0, 0, 0);
+  color: #FFF;
+  border: none;
+  padding: 1rem;
+  border-radius: 1rem;
+  font-size: 19px;
+  cursor: pointer;
+  transition: all ease 0.4s;
+}
+
+.LoginGIt:hover{
+  background-color: rgba(0, 0, 0, 0.808);
+}
